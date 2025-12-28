@@ -1,0 +1,54 @@
+12:48:55.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.727 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:48:55.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:48:55.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:48:55.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:48:55.775 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:48:55.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:48:55.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:48:55.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:48:55.862 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:48:55.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:48:55.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:48:55.938 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+12:48:56.355 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+12:48:56.579 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+12:48:58.461 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+12:48:58.478 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+12:48:59.204 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+12:48:59.750 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+12:49:10.220 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+12:49:10.227 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+12:49:10.914 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+12:49:11.215 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+12:49:22.199 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+12:49:22.212 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+12:49:22.878 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+12:49:23.296 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+12:49:34.476 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+23:26:36.915 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+23:26:37.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\Testing\OpencartV121\master.xml
+
+23:26:49.490 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+23:26:52.631 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+23:26:56.035 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+23:26:56.629 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+23:26:57.101 [main] INFO  testCases.TC002_LoginTest - Email Address added
+10:33:11.575 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\grid-docker.xml"
+10:33:12.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\Testing\OpencartV121\grid-docker.xml
+
+10:33:29.192 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+10:33:33.470 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+10:33:36.942 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+10:33:38.068 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+10:33:38.447 [main] INFO  testCases.TC002_LoginTest - Email Address added
+10:35:28.842 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\grid-docker.xml"
+10:35:29.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\Testing\OpencartV121\grid-docker.xml
+

@@ -1,0 +1,41 @@
+10:35:46.108 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+10:35:50.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+10:36:01.821 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+10:36:02.482 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+10:36:02.640 [main] INFO  testCases.TC002_LoginTest - Email Address added
+12:49:31.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+12:49:36.788 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+12:49:38.696 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:49:40.797 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+12:49:41.248 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+12:49:41.430 [main] INFO  testCases.TC002_LoginTest - Email Address added
+14:54:27.581 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+14:54:35.087 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+14:54:38.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:54:41.484 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+14:54:42.215 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+14:54:42.860 [main] INFO  testCases.TC002_LoginTest - Email Address added
+14:55:13.187 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+14:55:17.455 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+14:55:19.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:55:24.700 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+14:55:25.371 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+14:55:25.887 [main] INFO  testCases.TC002_LoginTest - Email Address added
+15:02:05.370 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+15:02:12.457 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+15:02:36.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:02:50.313 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+15:02:50.945 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+15:02:51.183 [main] INFO  testCases.TC002_LoginTest - Email Address added
+15:03:55.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+15:04:00.187 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+15:04:03.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:04:07.961 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+15:04:08.628 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+15:04:08.865 [main] INFO  testCases.TC002_LoginTest - Email Address added
+15:09:00.957 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\WorkSpace\Testing\OpencartV121\master.xml"
+15:09:06.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Starting TC001_AccountRegistrationTest ********
+15:09:10.374 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:09:14.003 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest********
+15:09:14.634 [main] INFO  testCases.TC002_LoginTest - LoginPage Initiated
+15:09:14.849 [main] INFO  testCases.TC002_LoginTest - Email Address added

@@ -1,0 +1,47 @@
+11:39:35.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:39:35.097 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:35.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:35.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:39:35.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:35.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:35.166 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:39:35.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:35.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:35.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:39:35.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:35.230 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+11:39:35.742 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+11:39:35.982 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+11:39:38.508 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+11:39:38.519 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+11:39:38.946 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+11:39:39.048 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+11:39:50.225 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+11:39:50.227 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+11:39:50.557 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+11:39:50.645 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+11:40:01.379 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+11:40:01.384 [main] INFO  testCases.TC003_LoginDDT - *******TC003_LoginDDT Started*******
+11:40:01.725 [main] INFO  testCases.TC003_LoginDDT - LoginPage Initiated
+11:40:01.814 [main] INFO  testCases.TC003_LoginDDT - Email Address added
+11:40:16.979 [main] INFO  testCases.TC003_LoginDDT - ******TC003_LoginDDT finished*****
+20:05:11.282 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse-1956814725\testng-customsuite.xml"
+20:05:11.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:05:11.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+20:05:11.543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+20:05:11.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:11.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:11.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
